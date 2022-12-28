@@ -1,4 +1,5 @@
 from collections import namedtuple
+import os
 import altair as alt
 import math
 import pandas as pd
@@ -15,6 +16,8 @@ forums](https://discuss.streamlit.io).
 In the meantime, below is an example of what you can do with just a few lines of code:
 """
 
+st.set_page_config(page_title="上善若水")
+# st.headerst.textst.titlest.headerst.text
 
 with st.echo(code_location='below'):
     total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
