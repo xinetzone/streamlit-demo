@@ -4,6 +4,7 @@ from plotly import express as px
 st.set_page_config(
     page_title="Hello",
     page_icon="👋",
+    layout="wide" # 宽屏模式
 )
 
 st.write("# Welcome to Streamlit! 👋")
