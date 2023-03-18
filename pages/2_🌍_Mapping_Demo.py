@@ -14,7 +14,7 @@ to display geospatial data."""
 )
 
 
-@st.experimental_memo
+@st.cache_data
 def from_data_file(filename):
     url = (
         "http://raw.githubusercontent.com/streamlit/"
