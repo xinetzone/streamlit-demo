@@ -1,6 +1,6 @@
 # AI
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/xinetzone/streamlit-demo/main)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://xinetzone.streamlit.app/)
 
 ## 帮助
 
